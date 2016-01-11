@@ -6,6 +6,7 @@ public class Box{
 	double height;
 	double x, y, z;
 	double [] coords;
+	double asd;
 
 	public Box (){
 		
