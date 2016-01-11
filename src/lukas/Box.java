@@ -1,4 +1,4 @@
-package test1;
+package lukas;
 
 public class Box{
 	double width;
