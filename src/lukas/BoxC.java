@@ -1,4 +1,4 @@
-package test1;
+package src.lukas;
 
 public class BoxC extends Box {
 	double width = 55;

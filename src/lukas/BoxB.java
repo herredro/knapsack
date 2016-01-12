@@ -1,4 +1,4 @@
-package test1;
+package src.lukas;
 
 public class BoxB extends Box {
 	public BoxB(){

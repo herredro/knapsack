@@ -1,4 +1,4 @@
-package lukas;
+package src.lukas;
 
 public class Box{
 	double width;
@@ -6,7 +6,7 @@ public class Box{
 	double height;
 	double x, y, z;
 	double [] coords;
-	double asd;
+	double assd;
 
 	public Box (){
 		
