@@ -36,6 +36,7 @@ public class BruteForce {
 			}
 			w++;
 			w++;
+			w++;
 		}
 	}
 }
